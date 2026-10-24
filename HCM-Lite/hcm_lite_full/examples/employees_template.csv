@@ -1,0 +1,2 @@
+employee_code,name,email,department,designation,join_date,basic_salary,temporary_password
+E001,Sample Employee,sample.employee@example.com,Engineering,Junior Analyst,2026-01-05,50000,TempPass123!
